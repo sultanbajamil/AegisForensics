@@ -1,0 +1,7 @@
+streamlit
+python-evtx
+pywin32; sys_platform == 'win32'
+cryptography
+pandas
+plotly
+jinja2
